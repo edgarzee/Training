@@ -1,7 +1,7 @@
 package java_training.pptwo;
 
 import java.util.Scanner;
-public class PP2_4_TempConverter {
+public class TempConverter_PP2_4 {
     public static void main(String[] args){
         final int BASE = 32;
         final double CONVERSION_FACTOR = 9.0 / 5.0;
