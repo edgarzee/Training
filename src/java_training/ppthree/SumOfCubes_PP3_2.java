@@ -2,7 +2,7 @@ package java_training.ppthree;
 
 import java.util.Scanner;
 
-public class PP3_2_SumOfCubes {
+public class SumOfCubes_PP3_2 {
     public static void main (String[] args){
         double num1, num2, sum;
 

@@ -2,7 +2,7 @@ package java_training.ppthree;
 
 import java.text.DecimalFormat;
 
-public class PP3_6_Triangle {
+public class Triangle_PP3_6 {
     public static void main (String[] args){
         int a = 4;
         int b = 13;

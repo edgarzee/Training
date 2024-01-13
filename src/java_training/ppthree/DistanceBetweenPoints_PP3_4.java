@@ -1,6 +1,6 @@
 package java_training.ppthree;
 
-public class PP3_4_DistanceBetweenPoints {
+public class DistanceBetweenPoints_PP3_4 {
     public static void main (String[] args){
         int x1 = 10;
         int y1 = 20;

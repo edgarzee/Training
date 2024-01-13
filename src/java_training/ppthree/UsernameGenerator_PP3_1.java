@@ -3,7 +3,7 @@ package java_training.ppthree;
 import java.util.Scanner;
 import java.util.Random;
 
-public class PP3_1_UsernameGenerator {
+public class UsernameGenerator_PP3_1 {
     public static void main (String[] args){
         String name, surname, username;
         int randomNumber;

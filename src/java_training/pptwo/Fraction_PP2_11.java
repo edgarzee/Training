@@ -1,7 +1,7 @@
 package java_training.pptwo;
 
 import java.util.Scanner;
-public class PP2_11_Fraction {
+public class Fraction_PP2_11 {
     public static void main(String[] args){
 
         int numerator, denominator;

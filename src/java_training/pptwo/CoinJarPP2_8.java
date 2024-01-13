@@ -1,7 +1,7 @@
 package java_training.pptwo;
 
 import java.util.Scanner;
-public class PP2_8_CoinJar {
+public class CoinJarPP2_8 {
     public static void main(String[] args){
         int quarters, dimes, nickels, pennies, dollars, cents, totalCents;;
 

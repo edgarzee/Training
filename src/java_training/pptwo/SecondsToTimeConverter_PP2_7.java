@@ -1,7 +1,7 @@
 package java_training.pptwo;
 
 import java.util.Scanner;
-public class PP2_7_ReverseSeconds {
+public class SecondsToTimeConverter_PP2_7 {
     public static void main(String[] args){
         int totalSeconds, hours, minutes, seconds;
 

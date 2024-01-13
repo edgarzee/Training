@@ -2,7 +2,7 @@ package java_training.ppthree;
 
 import java.text.DecimalFormat;
 
-public class PP3_5_Sphere {
+public class Sphere_PP3_5_ {
     public static void main(String[] args){
         int r = 2;
         double v, s;

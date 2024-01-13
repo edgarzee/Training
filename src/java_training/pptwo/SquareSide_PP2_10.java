@@ -1,7 +1,7 @@
 package java_training.pptwo;
 
 import java.util.Scanner;
-public class PP2_10_SquareSide {
+public class SquareSide_PP2_10 {
     public static void main (String[] args){
         int length, perimeter, area;
 

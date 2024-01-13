@@ -1,7 +1,7 @@
 package java_training.pptwo;
 
 import java.util.Scanner;
-public class PP2_9_PrintMonetaryValue {
+public class PrintMonetaryValue_PP2_9 {
     public static void main (String[] args){
         double amount;
         int ten, five, one, quarter, dime, nickel, penny;
