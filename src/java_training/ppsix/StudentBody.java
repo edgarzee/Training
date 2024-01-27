@@ -22,5 +22,7 @@ public class StudentBody {
         System.out.println(john);
         System.out.println();
         System.out.println(marsha);
+        System.out.println();
+        System.out.println("John's 3rd test score is " + john.getTestScore(3));
     }
 }
